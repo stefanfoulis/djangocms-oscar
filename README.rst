@@ -1,0 +1,1 @@
+example apphook and cms plugin
